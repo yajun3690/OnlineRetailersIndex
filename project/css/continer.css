@@ -1,0 +1,27 @@
+.continer{
+	width: 1226px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.clearfix:after{
+    content: "";
+    clear: both;
+    display: block;
+    height: 0px;
+    visibility: hidden;
+}
+.clearfix{
+    *zoom:1;
+}
+
+ul{
+	list-style: none;
+}
+a{
+	color: #a3a7a9;
+	font-size: 12px;
+	text-decoration: none;
+}s
+a:hover{
+	color: white;
+}
